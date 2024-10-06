@@ -1,0 +1,22 @@
+Scenario:
+In this lab, you will explore polynomial regression as an extension of linear regression
+using Excel. You'll learn how polynomial regression can model complex relationships
+and compare it with simple linear regression.
+Polynomial regression Equation:
+Steps to Follow:
+1. Data Setup: Use the same dataset you used before in lab (Hours Studied and Scores).
+ - Add a new column called "Hours Squared" by squaring the "Hours Studied" values in
+Excel.
+2. Set Up Polynomial Regression:
+ - Use Excel’s LINEST function to create a polynomial regression equation:
+ - Calculate the coefficients (a0, a1, and a2) for the polynomial regression.
+3. Calculate Predicted Scores:
+ - Create a new column called "Predicted Scores (Polynomial)" using the regression
+equation and coefficients.
+4. Visualize Polynomial Regression:
+ - Create a scatter plot using your data (Hours Studied and Scores) and add the
+polynomial regression line to the plot.
+ - Compare this new polynomial line with the previous linear regression line.
+5. Calculate Errors (Residuals):
+ - Create a new column called "Residuals (Polynomial)" to find the difference between
+the actual scores and the predicted scores.
