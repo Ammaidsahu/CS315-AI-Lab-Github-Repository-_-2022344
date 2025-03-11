@@ -21,4 +21,5 @@ Install the required libraries using requirements.txt:
 pip install -r requirements.txt
 Open Google Colab
 All exercises and projects will be developed and tested on Google Colab.
+AI
 
